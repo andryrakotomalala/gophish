@@ -4,13 +4,8 @@
 		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
-		"trusted_origins": [https://gophish-production-e38a.up.railway.app/]
+		"trusted_origins": [gophish-production-e38a.up.railway.app/]
 	},
-	"phish_server": {
-		"listen_url": "0.0.0.0:80",
-		"use_tls": false,
-		"cert_path": "example.crt",
-		"key_path": "example.key"
 	},
 	"db_name": "sqlite3",
 	"db_path": "gophish.db",
