@@ -4,7 +4,7 @@
 		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
-		"trusted_origins": ["authentic-generosity-production.up.railway.app/"]
+		"trusted_origins": ["https://authentic-generosity-production.up.railway.app"]
 	},
 	"db_name": "sqlite3",
 	"db_path": "gophish.db",
